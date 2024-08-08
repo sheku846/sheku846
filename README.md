@@ -1,7 +1,8 @@
-[![MasterHead](https://img.freepik.com/free-vector/ai-machine-learning-template-vector-disruptive-technology-blog-banner_53876-112230.jpg?w=1380&t=st=1723069422~exp=1723070022~hmac=204be996bb8ec551d9bc8ffeda24d4df266b589b30487505adea6eb2a2fda8c1)
+![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)
+
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A Machine Learning enthusiast</h3>
-<img align="right" alt="Coding" src="https://iconscout.com/lottie-animation/machine-learning-11192372.gif">
+<img iframe align="right" src="https://iconscout.com/lottie/machine-learning-8323603">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheku846&label=Profile%20views&color=0e75b6&style=flat" alt="sheku846" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheku846" alt="sheku846" /></a> </p>
